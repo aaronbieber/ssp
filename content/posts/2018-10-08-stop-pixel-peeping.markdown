@@ -3,7 +3,7 @@ title: "Stop Pixel Peeping!"
 date: 2018-10-08T18:48:06-04:00
 ---
 
-{% img drop right /assets/images/uploads/stop-pixel-peeping/pixel-peep.png %}
+{% img drop right /images/uploads/stop-pixel-peeping/pixel-peep.png %}
 
 This is going to be a rant post, so if you're not into that, feel free to go on
 your merry way and come back later after I've cooled down.
@@ -44,7 +44,7 @@ growing, always changing, and armed with an observant mind your work will
 improve many times faster through experimentation than through upgrades to your
 kit.
 
-{% img drop center /assets/images/uploads/stop-pixel-peeping/good-morning-brookline.jpg %}
+{% img drop center /images/uploads/stop-pixel-peeping/good-morning-brookline.jpg %}
 
 (The photo above was taken with my cell phone. I like it a lot. I'm not
 convinced that the image would have *more merit* if it were 40 megapixels in

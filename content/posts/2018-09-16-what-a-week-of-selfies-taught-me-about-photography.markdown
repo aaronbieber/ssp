@@ -3,7 +3,7 @@ title: "What a Week of Selfies Taught Me About Photography"
 date: 2018-09-16T11:57:19-04:00
 ---
 
-{% img drop /assets/images/uploads/week-of-selfies/selfie6.jpg %}
+{% img drop /images/uploads/week-of-selfies/selfie6.jpg %}
 
 For a long time I've wanted a somewhat better self portrait photo to use on
 various accounts and websites. I've been using the same old boring picture of me
@@ -39,7 +39,7 @@ post-processed in some way, usually by applying a stock Instagram filter or by
 making adjustments manually, but sometimes I will edit in Snapseed (my favorite
 mobile photo editor at the moment).
 
-{% img center /assets/images/uploads/week-of-selfies/selfie-film-strip.jpg %}
+{% img center /images/uploads/week-of-selfies/selfie-film-strip.jpg %}
 
 As time went on, I got a little more adventurous with the photo effects. This
 isn't the best progression to be able to visualize it, but the very first photo

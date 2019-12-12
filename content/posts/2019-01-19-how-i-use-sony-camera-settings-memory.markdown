@@ -3,7 +3,7 @@ title: "How I Use Sony Camera Settings Memory"
 date: 2019-01-19T11:19:31-05:00
 ---
 
-{% img right drop /assets/images/uploads/camera-settings-memory/a7riii-mode-dial.jpg %}
+{% img right drop /images/uploads/camera-settings-memory/a7riii-mode-dial.jpg %}
 
 I *really like* the camera settings memory that my Sony a7RIII offers. Referred
 to in their documentation as "Camera Settings 1" and "Camera Settings 2," this
@@ -74,7 +74,7 @@ scenario, I "build" off of one of these two sets of settings.
 
 These are my essential, everyday, general handheld shooting settings.
 
-{% img center drop /assets/images/uploads/camera-settings-memory/settings-c1.png %}
+{% img center drop /images/uploads/camera-settings-memory/settings-c1.png %}
 
 As a basis, I love *aperture priority mode*, and then I have a pretty no-frills
 set of baseline settings:
@@ -96,7 +96,7 @@ My second group of settings is geared toward sunrise/sunset tripod shooting,
 especially when I'm doing cityscapes and I want to get a lot of dynamic range
 out of an image with city lights and ambient light playing together.
 
-{% img center drop /assets/images/uploads/camera-settings-memory/settings-c2.png %}
+{% img center drop /images/uploads/camera-settings-memory/settings-c2.png %}
 
 Again, I prefer *aperture priority mode*, and then I have settings oriented
 toward tripod shooting:

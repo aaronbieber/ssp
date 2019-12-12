@@ -3,7 +3,7 @@ title: "Why I Shoot Sony"
 date: 2018-10-28T08:47:35-04:00
 ---
 
-{% img right /assets/images/uploads/why-i-shoot-sony/a7riii-kit.jpg %}
+{% img right /images/uploads/why-i-shoot-sony/a7riii-kit.jpg %}
 
 At the risk of appearing to be one of those gear-obsessed photographers who
 enjoys *playing with cameras* more than *making photographs*, I'm going to take
@@ -75,7 +75,7 @@ image data than an EVF does in today's world. But the real killer feature of the
 EVF is not that "it's as good as a mirror," it's that an EVF is a full LCD
 screen.
 
-{% img drop right /assets/images/uploads/why-i-shoot-sony/nikon-focus-points.jpg © Nikon %}
+{% img drop right /images/uploads/why-i-shoot-sony/nikon-focus-points.jpg © Nikon %}
 
 When you look through an OVF, you can see focus points light up, and you
 generally get readouts on your basic settings (shutter speed, aperture, exposure
@@ -90,7 +90,7 @@ of the overlayed data, you can also see a representation of what your image will
 look like given your current exposure settings, and now we're getting into the
 true value of this system.
 
-{% img drop left /assets/images/uploads/why-i-shoot-sony/a7riii-viewfinder.jpg © Manny Ortiz %}
+{% img drop left /images/uploads/why-i-shoot-sony/a7riii-viewfinder.jpg © Manny Ortiz %}
 
 No longer do you need to learn to read the tea leaves of the light meter and EV
 scale and then chimp endlessly, swapping from viewfinder to back display to make
