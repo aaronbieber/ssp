@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Canon 5D Mark II in the (Dr.) House!

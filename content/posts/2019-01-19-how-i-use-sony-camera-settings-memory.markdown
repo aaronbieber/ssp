@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How I Use Sony Camera Settings Memory"
 date: 2019-01-19T11:19:31-05:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What Do I Do With All of These Card Slots??"
 date: 2018-10-13T14:11:41-04:00
 ---

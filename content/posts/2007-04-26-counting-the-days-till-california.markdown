@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Counting the Days Till California

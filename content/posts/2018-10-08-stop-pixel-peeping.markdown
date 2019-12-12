@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stop Pixel Peeping!"
 date: 2018-10-08T18:48:06-04:00
 ---

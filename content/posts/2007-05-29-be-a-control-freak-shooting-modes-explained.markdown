@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Be a Control Freak (Shooting Modes Explained)

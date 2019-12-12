@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Why I Shoot Sony"
 date: 2018-10-28T08:47:35-04:00
 ---

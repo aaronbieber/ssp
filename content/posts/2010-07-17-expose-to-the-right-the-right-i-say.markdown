@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Expose to the Right! The Right, I Say!

@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Just a Few Musings, and Opportunities for YOU

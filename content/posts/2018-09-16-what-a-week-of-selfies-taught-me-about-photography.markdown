@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What a Week of Selfies Taught Me About Photography"
 date: 2018-09-16T11:57:19-04:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Full-Spectrum Viewing Area for Under $15

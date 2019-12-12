@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 'Photography: What''s the Point?'

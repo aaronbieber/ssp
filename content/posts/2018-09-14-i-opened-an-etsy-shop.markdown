@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "I Opened an Etsy Shop"
 date: 2018-09-14T07:10:42-04:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Canon 5D Shutter in Slow Motion

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Why Was I Such an Idiot?"
 date: 2018-09-22T08:16:08-04:00
 ---

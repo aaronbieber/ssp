@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Death Valley Workshop, April 2008

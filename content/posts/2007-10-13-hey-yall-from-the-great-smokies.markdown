@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: '"Hey Y''all" from the Great Smokies'

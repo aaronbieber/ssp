@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Another Home Product Studio Setup

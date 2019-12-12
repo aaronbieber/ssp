@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 560,000 Photos of a Firecracker Exploding

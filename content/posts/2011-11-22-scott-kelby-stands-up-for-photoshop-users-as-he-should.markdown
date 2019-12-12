@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Scott Kelby Stands Up For Photoshop Users (As He Should)

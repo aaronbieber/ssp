@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Being There... With a Camera

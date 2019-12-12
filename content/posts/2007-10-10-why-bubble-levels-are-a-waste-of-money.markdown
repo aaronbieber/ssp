@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Why Bubble Levels Are a Waste of Money

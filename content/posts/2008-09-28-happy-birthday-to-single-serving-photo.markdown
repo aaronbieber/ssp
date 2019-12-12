@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Happy Birthday to Single-Serving Photo!

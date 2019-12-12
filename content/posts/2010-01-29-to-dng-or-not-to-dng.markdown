@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: To DNG or Not to DNG

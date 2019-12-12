@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Olympus Demonstrates How Not to Do Business

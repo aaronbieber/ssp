@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: 'Giving Everything Away: Return to Creative Commons'

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Change Your Perspective"
 date: 2018-10-10T18:50:03-04:00
 ---

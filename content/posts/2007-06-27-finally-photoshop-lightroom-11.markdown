@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Finally, Photoshop Lightroom 1.1!

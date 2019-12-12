@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Pictures of the Year 2007

@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: The Girl on the Magazine Cover, 1940

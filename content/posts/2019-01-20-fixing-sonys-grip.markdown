@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Fixing Sony's Grip"
 date: 2019-01-20T19:40:49-05:00
 ---

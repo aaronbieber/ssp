@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Independence Day in Washington, D.C.; Trials and Tribulations

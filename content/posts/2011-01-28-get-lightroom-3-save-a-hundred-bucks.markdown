@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Get Lightroom 3 Right Now and Save a Hundred Bucks!

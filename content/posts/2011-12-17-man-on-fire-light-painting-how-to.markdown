@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: '"Man on Fire" Light Painting How-To'

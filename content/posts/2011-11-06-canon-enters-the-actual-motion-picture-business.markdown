@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Canon Enters the Actual Motion Picture Business

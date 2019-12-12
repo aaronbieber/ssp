@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: ND Filters, Top to Bottom

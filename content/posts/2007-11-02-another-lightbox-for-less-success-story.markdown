@@ -1,5 +1,4 @@
 ---
-layout: post
 status: publish
 published: true
 title: Another Lightbox-for-Less Success Story
