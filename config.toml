@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Single-Serving Photo"
+theme = "ssp"
+uglyURLs = true
+
+[params]
+  author = "abieber"
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug"

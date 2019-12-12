@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div class="home">
+
+  <ul class="post-list">
+    {{ range (.Paginate (where .Site.RegularPages "Type" "in" "posts") 5).Pages }}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ .Permalink }}">{{ .Title | title }}</a>
+        </h2>
+
+        {{- partial "post-meta" . }}
+
+        <div class="excerpt">
+            {{ .Summary }}
+        </div>
+
+        {{ if .Truncated }}
+        <footer>
+            <a rel="full-article" href="{{ .Permalink }}">Read on &#8594;</a>
+        </footer>
+        {{ end }}
+
+      </li>
+
+    {{ end }}
+  </ul>
+
+  {{ with .Paginator }}
+  <div class="pagination">
+    {{ if .HasNext }}
+      <a href="{{ .Next.URL }}" class="previous">&#8610; Older</a>
+    {{ end }}
+
+    {{ if .HasPrev }}
+      <a href="{{ .Prev.URL }}" class="next">Newer &#8611</a>
+    {{ end }}
+  </div>
+  {{ end }}
+
+{{ end }}

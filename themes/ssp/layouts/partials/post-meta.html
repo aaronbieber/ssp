@@ -1,0 +1,10 @@
+<div class="post-meta">
+  <div class="meta-date">{{ .Date | dateFormat "January 2, 2006" }}</div>
+  {{ if isset .Params "author" }}
+    {{ $author := index .Site.Data.authors .Params.author }}
+    {{ partial "author" $author }}
+  {{ else }}
+    {{ $author := index .Site.Data.authors .Site.Params.author }}
+    {{ partial "author" $author }}
+  {{ end }}
+</div>
