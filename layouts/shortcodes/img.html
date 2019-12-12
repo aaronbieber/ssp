@@ -1,0 +1,10 @@
+{{ $lightbox := in (.Get 1) "@" }}
+<figure class="{{ .Get 0 }}">
+  {{ if $lightbox }}
+  {{ $original := replaceRE "@[0-9x,]+" "" (.Get 1) }}
+  <a class="lightbox" href="{{ $original }}">
+  {{ end }}
+  <img class="{{ .Get 0 }}" src="{{ .Get 1 }}" />
+  {{ if $lightbox }}</a>{{ end }}
+  {{ with .Get 2 }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
