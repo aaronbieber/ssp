@@ -1,0 +1,9 @@
+{{ if eq (.Get 0) "instagram" }}
+<a href="https://www.instagram.com/{{ .Get 1 }}"><i class="fab fa-instagram"></i> Instagram</a>
+{{ end }}
+{{ if eq (.Get 0) "twitter" }}
+<a href="https://www.twitter.com/{{ .Get 1 }}"><i class="fab fa-twitter"></i> Twitter</a>
+{{ end }}
+{{ if eq (.Get 0) "facebook" }}
+<a href="https://www.facebook.com/{{ .Get 1 }}"><i class="fab fa-facebook"></i> Facebook</a>
+{{ end }}
