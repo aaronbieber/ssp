@@ -14,10 +14,10 @@ comments: []
 ---
 Just because it's simple doesn't mean it's boring.
 
-{% img drop center /ssp/26sept05-01.jpg %}
+{{< img "drop center" "/ssp/26sept05-01.jpg" >}}
 
 This should be fairly unique.
 
-{% img drop center /ssp/26sept05-02.jpg %}
+{{< img "drop center" "/ssp/26sept05-02.jpg" >}}
 
 Macro *rock out*!

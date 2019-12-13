@@ -66,7 +66,7 @@ cone. The cone by itself wouldn't be very interesting, nor the sewer grate, but
 all together with the reflection of the building across the road, I think, makes
 for an interesting composition.
 
-{% img modest drop /images/uploads/change-your-perspective/downward-upward.jpg "Downward, Upward" %}
+{{< img "modest drop" "/images/uploads/change-your-perspective/downward-upward.jpg" "Downward, Upward" >}}
 
 I never would have seen this if I had been focusing my attention on the
 buildings themselves. Try forcing yourself to only shoot things below the
@@ -84,7 +84,7 @@ focus on the birds and the texture of the clouds with just a little reminder
 that this is a city (or even that it's Boston, if you're very familiar with that
 particular building).
 
-{% img modest drop /images/uploads/change-your-perspective/300-clarendon-birds.jpg "300 Clarendon Birds" %}
+{{< img "modest drop" "/images/uploads/change-your-perspective/300-clarendon-birds.jpg" "300 Clarendon Birds" >}}
 
 The point I'm trying to make is that I was walking to work; I wasn't actively
 out on a photo shoot trying to make art. I look all around me all the time,
@@ -104,7 +104,7 @@ instructors use is to get lower.
 I love trying shots from down low, to see if I can get a more unique foreground
 or a perspective not usually seen.
 
-{% img modest drop /images/uploads/change-your-perspective/yellowstone-lake.jpg "Yellowstone Lake" %} 
+{{< img "modest drop" "/images/uploads/change-your-perspective/yellowstone-lake.jpg" "Yellowstone Lake" >}} 
 
 This one is from Yellowstone National Park. The day was beautiful, but not the
 best for landscapes. Still, the clouds were very interesting. At this time of

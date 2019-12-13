@@ -13,10 +13,10 @@ tags: []
 comments: []
 ---
 It was a rainy day.
- {% img drop center /ssp/29sept05-06.jpg %}
+ {{< img "drop center" "/ssp/29sept05-06.jpg" >}}
 
 But even closed windows are fun to look at.
- {% img drop center /ssp/29sept05-05.jpg %}
+ {{< img "drop center" "/ssp/29sept05-05.jpg" >}}
 
 Dr. Xuling Gao, Ph.D.
- {% img drop center /ssp/29sept05-04.jpg %}
+ {{< img "drop center" "/ssp/29sept05-04.jpg" >}}

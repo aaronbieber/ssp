@@ -3,7 +3,7 @@ title: "What Do I Do With All of These Card Slots??"
 date: 2018-10-13T14:11:41-04:00
 ---
 
-{% img drop /images/uploads/card-slots/two-card-slots.jpg %}
+{{< img "drop" "/images/uploads/card-slots/two-card-slots.jpg" >}}
 
 I recently moved to the Sony Alpha a7R III, and this is the first camera I've
 ever owned with two memory card slots. Naturally this gave rise to the question:

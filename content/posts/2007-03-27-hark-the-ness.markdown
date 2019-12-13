@@ -36,10 +36,10 @@ as old-school, I achieved the effect entirely in Photoshop.
 
 Without further ado.
 
-{% img drop center /ssp/27Mar07-02.jpg %}
+{{< img "drop center" "/ssp/27Mar07-02.jpg" >}}
 
-{% img drop center /ssp/27Mar07-01.jpg %}
+{{< img "drop center" "/ssp/27Mar07-01.jpg" >}}
 
-{% img drop center /ssp/27Mar07-03.jpg %}
+{{< img "drop center" "/ssp/27Mar07-03.jpg" >}}
 
-{% img drop center /ssp/27Mar07-04.jpg %}
+{{< img "drop center" "/ssp/27Mar07-04.jpg" >}}

@@ -15,6 +15,6 @@ comments: []
 While setting up for my second big apartment party and goofing off, I
 snapped this with the 50mm f/1.4.
 
-{% img drop center /ssp/24sept05-01.jpg %}
+{{< img "drop center" "/ssp/24sept05-01.jpg" >}}
 
 I have a thing for abstraction, I think.

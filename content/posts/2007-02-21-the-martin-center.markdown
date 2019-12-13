@@ -17,10 +17,10 @@ practice that my friend coaches, purely as a favor, and couldn't help
 but to grab a few other interesting things I saw along the way. I hope
 you enjoy them!
 
-{% img drop center /ssp/02feb07-01.jpg %}
+{{< img "drop center" "/ssp/02feb07-01.jpg" >}}
 
-{% img drop center /ssp/02feb07-02.jpg %}
+{{< img "drop center" "/ssp/02feb07-02.jpg" >}}
 
-{% img drop center /ssp/02feb07-03.jpg %}
+{{< img "drop center" "/ssp/02feb07-03.jpg" >}}
 
-{% img drop center /ssp/02feb07-04.jpg %}
+{{< img "drop center" "/ssp/02feb07-04.jpg" >}}

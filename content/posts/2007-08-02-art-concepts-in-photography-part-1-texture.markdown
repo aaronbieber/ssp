@@ -20,7 +20,7 @@ tags:
 comments:
 ---
 
-{% img drop center /ssp/27Mar07-01.jpg %}
+{{< img "drop center" "/ssp/27Mar07-01.jpg" >}}
 
 Having spent most of my developing years surrounded by it, I have always
 taken for granted many of the fundamental guidelines of art. Perhaps due
@@ -62,7 +62,7 @@ immediate experience of what they're looking at.
 
 Behold, _Figure 1_.
 
-{% img drop center /ssp/27Mar07-01.jpg %}
+{{< img "drop center" "/ssp/27Mar07-01.jpg" >}}
 
 I made this photograph at the park in March while I was sitting around
 watching people fly their kites and throw their Frisbees. It's actually
@@ -82,7 +82,7 @@ all formed through contrast. Keep that in mind.
 
 Now, _Figure 2_.
 
-{% img drop center /ssp/27Mar07-02.jpg %}
+{{< img "drop center" "/ssp/27Mar07-02.jpg" >}}
 
 Tree bark is a ubiquitous source of texture in photography--and for good
 reason. In this image, the light through the branches of the tree
@@ -103,7 +103,7 @@ at times that are inappropriate for your preferred style.
 
 Finally, _Figure 3_.
 
-{% img drop center /ssp/27Mar07-03.jpg %}
+{{< img "drop center" "/ssp/27Mar07-03.jpg" >}}
 
 In the above piece, texture is only one player on a team of
 compositional tools including contrast, line, form, and depth; design

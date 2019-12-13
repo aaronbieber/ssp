@@ -34,12 +34,12 @@ A few shots that I thought I nailed were completely blurry, and others
 that I wasn't sure about came out very well, so that's a testament to
 practice... Which I lack. Without further ado:
 
-{% img drop center /ssp/09Jun07-01.jpg %}
-{% img drop center /ssp/09Jun07-02.jpg %}
-{% img drop center /ssp/09Jun07-03.jpg %}
-{% img drop center /ssp/09Jun07-04.jpg %}
-{% img drop center /ssp/09Jun07-05.jpg %}
-{% img drop center /ssp/09Jun07-06.jpg %}
-{% img drop center /ssp/09Jun07-07.jpg %}
-{% img drop center /ssp/09Jun07-08.jpg %}
-{% img drop center /ssp/09Jun07-09.jpg %}
+{{< img "drop center" "/ssp/09Jun07-01.jpg" >}}
+{{< img "drop center" "/ssp/09Jun07-02.jpg" >}}
+{{< img "drop center" "/ssp/09Jun07-03.jpg" >}}
+{{< img "drop center" "/ssp/09Jun07-04.jpg" >}}
+{{< img "drop center" "/ssp/09Jun07-05.jpg" >}}
+{{< img "drop center" "/ssp/09Jun07-06.jpg" >}}
+{{< img "drop center" "/ssp/09Jun07-07.jpg" >}}
+{{< img "drop center" "/ssp/09Jun07-08.jpg" >}}
+{{< img "drop center" "/ssp/09Jun07-09.jpg" >}}

@@ -21,10 +21,10 @@ below (400 to be safe) but since this is experimental and I hate the
 flash I gave it a go. The results were better than I expected.
 
 Manny
- {% img drop center /ssp/02oct05-01.jpg %}
+ {{< img "drop center" "/ssp/02oct05-01.jpg" >}}
 
 Peter
- {% img drop center /ssp/02oct05-02.jpg %}
+ {{< img "drop center" "/ssp/02oct05-02.jpg" >}}
 
 Sarah
- {% img drop center /ssp/02oct05-03.jpg %}
+ {{< img "drop center" "/ssp/02oct05-03.jpg" >}}

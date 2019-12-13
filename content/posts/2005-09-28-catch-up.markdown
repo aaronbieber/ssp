@@ -22,6 +22,6 @@ comments:
     and has since evolved [...]'
 ---
 I know, I know, I'm behind! Luckily, photography isn't life or death.
- {% img drop center /ssp/28sept05-02.jpg %}
- {% img drop center /ssp/28sept05-03.jpg %}
- {% img drop center /ssp/28sept05-01.jpg %}
+ {{< img "drop center" "/ssp/28sept05-02.jpg" >}}
+ {{< img "drop center" "/ssp/28sept05-03.jpg" >}}
+ {{< img "drop center" "/ssp/28sept05-01.jpg" >}}

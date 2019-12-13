@@ -40,7 +40,7 @@ light that hits them, and when the light comes out the other side the colors
 should be completely unaffected. Okay, so that's great, but why do we care?
 
 As you may recall from reading
-[Mastering the Only Five Camera Settings,]({% post_url 2008-06-30-mastering-the-only-five-camera-settings %})
+[Mastering the Only Five Camera Settings]({% post_url 2008-06-30-mastering-the-only-five-camera-settings %}),
 there is only so much you can do to change the characteristics of the scene
 you're capturing.
 
@@ -55,7 +55,7 @@ is, why do you want slower shutter speeds?
 
 ## Why Do You Want Slower Shutter Speeds?
 
-[{% img drop right http://farm1.static.flickr.com/38/81303741_1aa4cf6e6e_m.jpg Bridal Veil Falls %}](http://www.flickr.com/photos/skycaptaintwo/81303741/)
+[{{< img "drop right" "http://farm1.static.flickr.com/38/81303741_1aa4cf6e6e_m.jpg" "Bridal Veil Falls" >}}](http://www.flickr.com/photos/skycaptaintwo/81303741/)
 
 The most often cited reason is to get the "veiling effect" that water produces
 during a longer exposure. Normally, you might have to go out just after dawn or

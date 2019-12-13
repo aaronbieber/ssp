@@ -15,6 +15,6 @@ comments: []
 Here is one I snapped a couple of days ago but didn't get a chance to
 post. I froze my fingers off taking it, but this smoke stack is, for
 some reason, really cool to me.
- {% img drop center /ssp/09dec05-01.jpg %}
+ {{< img "drop center" "/ssp/09dec05-01.jpg" >}}
  This is the snowstorm that allowed me to stay home from work today.
- {% img drop center /ssp/09dec05-02.jpg %}
+ {{< img "drop center" "/ssp/09dec05-02.jpg" >}}

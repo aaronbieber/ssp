@@ -31,9 +31,9 @@ In between Heather's band photos, I like to go ahead and post a bunch of
 weird pictures of textures and shapes and junk. Why? Because it's my
 site, so I can do whatever I want!
 
-{% img drop center /ssp/16oct05-01.jpg %}
- {% img drop center /ssp/16oct05-02.jpg %}
- {% img drop center /ssp/16oct05-03.jpg %}
- {% img drop center /ssp/16oct05-04.jpg %}
- {% img drop center /ssp/16oct05-05.jpg %}
- {% img drop center /ssp/16oct05-06.jpg %}
+{{< img "drop center" "/ssp/16oct05-01.jpg" >}}
+ {{< img "drop center" "/ssp/16oct05-02.jpg" >}}
+ {{< img "drop center" "/ssp/16oct05-03.jpg" >}}
+ {{< img "drop center" "/ssp/16oct05-04.jpg" >}}
+ {{< img "drop center" "/ssp/16oct05-05.jpg" >}}
+ {{< img "drop center" "/ssp/16oct05-06.jpg" >}}

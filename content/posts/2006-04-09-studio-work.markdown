@@ -19,6 +19,6 @@ and supplementary lighting engineer was Heather.
 
 See more in [Meghan's gallery](http://gallery.thebailiwick.com/meghan/).
 
-{% img drop center /ssp/06apr06-01.jpg %}
- {% img drop center /ssp/06apr06-02.jpg %}
- {% img drop center /ssp/06apr06-03.jpg %}
+{{< img "drop center" "/ssp/06apr06-01.jpg" >}}
+ {{< img "drop center" "/ssp/06apr06-02.jpg" >}}
+ {{< img "drop center" "/ssp/06apr06-03.jpg" >}}

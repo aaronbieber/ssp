@@ -19,11 +19,11 @@ along the pier by the train station last night and I want to share these
 with you all.
 
 In front of the police substation, overlooking the main fishing dock.
- {% img drop center /ssp/10oct06-01.jpg %}
+ {{< img "drop center" "/ssp/10oct06-01.jpg" >}}
 
 Various impressive waterfront industrial complexes across the river.
- {% img drop center /ssp/10oct06-02.jpg %}
+ {{< img "drop center" "/ssp/10oct06-02.jpg" >}}
 
 My favorite of the three, my experiments with long exposure facing
 another fishing pier.
- {% img drop center /ssp/10oct06-03.jpg %}
+ {{< img "drop center" "/ssp/10oct06-03.jpg" >}}

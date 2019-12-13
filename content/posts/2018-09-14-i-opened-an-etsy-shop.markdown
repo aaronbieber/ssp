@@ -7,7 +7,7 @@ I've always wanted to make prints of my work available to buy, and through the
 years I've sold one-offs to friends and family, but until now I have never tried
 to scale that up into a sustainable business. Thanks to Etsy, I have done it!
 
-[{% img center /images/uploads/etsy-shop-banner-square.jpg %}][shop]
+[{{< img "center" "/images/uploads/etsy-shop-banner-square.jpg" >}}][shop]
 
 [shop]: https://www.etsy.com/shop/aaronbiebergallery
 

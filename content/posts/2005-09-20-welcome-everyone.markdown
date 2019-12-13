@@ -16,8 +16,8 @@ Last night and some time this afternoon. Sometimes when you're sitting
 alone in your cubicle, staring at the tea in your cup, you can't help
 it.
 
-{% img drop center /ssp/20sept05-01.jpg %}
+{{< img "drop center" "/ssp/20sept05-01.jpg" >}}
 
-{% img drop center /ssp/20sept05-02.jpg %}
+{{< img "drop center" "/ssp/20sept05-02.jpg" >}}
 
 No, that's not my hand. It's Heather's!

@@ -3,7 +3,7 @@ title: "Why Was I Such an Idiot?"
 date: 2018-09-22T08:16:08-04:00
 ---
 
-{% img drop /images/uploads/why-was-i-such-an-idiot/idiot.jpg %}
+{{< img "drop" "/images/uploads/why-was-i-such-an-idiot/idiot.jpg" >}}
 
 Recently I've been watching this series of videos put out by fstoppers called
 "Photographing the World" in which Elia Locardi demonstrates photography and
@@ -64,7 +64,7 @@ skills. You may not yet know how to get that sky to look just right, or how to
 make your midtones really pop, but seeing (and admitting to yourself) that you
 want them to is the first step.
 
-{% img center drop /images/uploads/why-was-i-such-an-idiot/cloud-gate-before-after.jpg %}
+{{< img "center drop" "/images/uploads/why-was-i-such-an-idiot/cloud-gate-before-after.jpg" >}}
 
 The great thing about digital photography, which is also true of software, is
 that you can always change it. Sure, you can't go back to that exact moment in

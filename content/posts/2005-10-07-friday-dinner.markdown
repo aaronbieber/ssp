@@ -16,12 +16,12 @@ I visited my parents and they had some company. Much wine was consumed
 and a lively conversation was had.
 
 I found this in the bathroom.
- {% img drop center /ssp/07oct05-01.jpg %}
+ {{< img "drop center" "/ssp/07oct05-01.jpg" >}}
 
 Suz
- {% img drop center /ssp/07oct05-02.jpg %}
+ {{< img "drop center" "/ssp/07oct05-02.jpg" >}}
 
 Joe
- {% img drop center /ssp/07oct05-03.jpg %}
+ {{< img "drop center" "/ssp/07oct05-03.jpg" >}}
 
 P.S. Those are not my parents, just FYI.

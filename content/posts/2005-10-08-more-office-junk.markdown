@@ -15,8 +15,8 @@ comments: []
 In the afternoon, the sun reflects off of the windows on our side of the
 building and makes neat shapes in the shadows of the trees.
 
-{% img drop center /ssp/06oct05-01.jpg %}
+{{< img "drop center" "/ssp/06oct05-01.jpg" >}}
 
 Here is me reflected in double-pane glass.
 
-{% img drop center /ssp/06oct05-02.jpg %}
+{{< img "drop center" "/ssp/06oct05-02.jpg" >}}

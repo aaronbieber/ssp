@@ -37,13 +37,13 @@ shortcomings would be. When I saw these results, I actually became
 *excited* because the vignette added atmosphere to otherwise hum-drum
 images. A bit of tweaking in Photoshop and...
 
-{% img drop center /ssp/29nov06-01.jpg %}
+{{< img "drop center" "/ssp/29nov06-01.jpg" >}}
 
-{% img drop center /ssp/29nov06-02.jpg %}
+{{< img "drop center" "/ssp/29nov06-02.jpg" >}}
 
-{% img drop center /ssp/29nov06-03.jpg %}
+{{< img "drop center" "/ssp/29nov06-03.jpg" >}}
 
-{% img drop center /ssp/29nov06-04.jpg %}
+{{< img "drop center" "/ssp/29nov06-04.jpg" >}}
 
 Notice the great depth of field you can get with an aperture as wide as
 f/1.4. If you want to experiment with this kind of thing, the most

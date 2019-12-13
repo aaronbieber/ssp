@@ -28,8 +28,8 @@ dexterity may become very frustrated with it.
 
 Anyway, without further ado, here are a few samples.
 
-{% img drop center /ssp/13Apr07-01.jpg %}
- {% img drop center /ssp/13Apr07-02.jpg %}
- {% img drop center /ssp/13Apr07-03.jpg %}
+{{< img "drop center" "/ssp/13Apr07-01.jpg" >}}
+ {{< img "drop center" "/ssp/13Apr07-02.jpg" >}}
+ {{< img "drop center" "/ssp/13Apr07-03.jpg" >}}
 
 I will post more soon!

@@ -15,8 +15,8 @@ comments: []
 I was over at Vassar College a couple of weeks ago and here is some of
 the evidence.
 
-{% img drop center /ssp/28jan06-01.jpg %}
- {% img drop center /ssp/28jan06-02.jpg %}
- {% img drop center /ssp/28jan06-03.jpg %}
- {% img drop center /ssp/28jan06-04.jpg %}
- {% img drop center /ssp/28jan06-05.jpg %}
+{{< img "drop center" "/ssp/28jan06-01.jpg" >}}
+ {{< img "drop center" "/ssp/28jan06-02.jpg" >}}
+ {{< img "drop center" "/ssp/28jan06-03.jpg" >}}
+ {{< img "drop center" "/ssp/28jan06-04.jpg" >}}
+ {{< img "drop center" "/ssp/28jan06-05.jpg" >}}

@@ -42,8 +42,8 @@ Photoshop techniques (and still giving Lightroom a run for its money),
 so I'll be posting more specifically about that later. Perhaps another
 tutorial? We'll see!
 
-{% img drop center /ssp/01Apr07-01.jpg %}
+{{< img "drop center" "/ssp/01Apr07-01.jpg" >}}
 
-{% img drop center /ssp/01Apr07-02.jpg %}
+{{< img "drop center" "/ssp/01Apr07-02.jpg" >}}
 
-{% img drop center /ssp/01Apr07-03.jpg %}
+{{< img "drop center" "/ssp/01Apr07-03.jpg" >}}

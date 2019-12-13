@@ -32,13 +32,13 @@ that's appropriate. In any case, it really is on a mountain and it
 really does have a splendid view.
 
 Even the cell phone towers look dramatic and cool.
- {% img drop center /ssp/11nov05-01.jpg %}
+ {{< img "drop center" "/ssp/11nov05-01.jpg" >}}
 
 This is my buddy, the stone dog.
- {% img drop center /ssp/11nov05-02.jpg %}
+ {{< img "drop center" "/ssp/11nov05-02.jpg" >}}
 
 Looks even more awesome in silhouette, doesn't he?
- {% img drop center /ssp/11nov05-03.jpg %}
+ {{< img "drop center" "/ssp/11nov05-03.jpg" >}}
 
 Finally, dusk reflected in a headstone.
- {% img drop center /ssp/11nov05-04.jpg %}
+ {{< img "drop center" "/ssp/11nov05-04.jpg" >}}

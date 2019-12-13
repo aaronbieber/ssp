@@ -14,4 +14,4 @@ comments: []
 ---
 Hello, Mike.
 
-{% img drop center /ssp/23sept05-01.jpg %}
+{{< img "drop center" "/ssp/23sept05-01.jpg" >}}

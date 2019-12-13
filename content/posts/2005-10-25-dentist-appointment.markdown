@@ -25,8 +25,8 @@ The folks at my dentist's office were kind enough to let me spend a few
 free moments snapping photos of their cool old X-Ray machine and such.
 Big thanks to Dr. Berman and his entire crew.
 
-{% img drop center /ssp/25oct05-01.jpg %}
- {% img drop center /ssp/25oct05-02.jpg %}
+{{< img "drop center" "/ssp/25oct05-01.jpg" >}}
+ {{< img "drop center" "/ssp/25oct05-02.jpg" >}}
 
 I'm experimenting with the Mama Shanz cross-process actions in
 Photoshop. Cross-processing refers to the development of some type of
@@ -37,5 +37,5 @@ effect was pretty big for a while in the '70s, as I understand it, but
 with the advent of Photoshop it becomes easier to experiment with
 similar effects without incurring the costs of chemicals and screw-ups.
 Here are a couple of ideas.
- {% img drop center /ssp/25oct05-03.jpg %}
- {% img drop center /ssp/25oct05-04.jpg %}
+ {{< img "drop center" "/ssp/25oct05-03.jpg" >}}
+ {{< img "drop center" "/ssp/25oct05-04.jpg" >}}
