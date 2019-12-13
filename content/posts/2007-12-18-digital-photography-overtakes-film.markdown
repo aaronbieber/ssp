@@ -22,7 +22,7 @@ that doesn't mean that film has become obsolete.
 It's more important than ever for photographers to be aware of what's
 happening in the digital world as today's youngest generation of
 photographers enter the scene and wonder why anyone ever got their hands
-wet while making images.~~MORE~~
+wet while making images.<!--more-->
 
 {% random right %}
 

@@ -28,7 +28,7 @@ right place.
 ![](/articles/Histograms/Figure-1.gif)
 
 Today I will unclothe the common histogram and show you not only how to read it,
-but also how you can use it to strengthen your work.~~MORE~~
+but also how you can use it to strengthen your work.<!--more-->
 
 The histogram is a very powerful tool because it provides an instant window to
 image information that is otherwise very difficult for a person to get a sense

@@ -25,7 +25,7 @@ totally demystify the nineteen (well, four...) ways their strengths are
 measured, and give you some awesome tips for using them effectively in the
 field.
 
-Starting from the top, what exactly is an ND filter, anyway? ~~MORE~~
+Starting from the top, what exactly is an ND filter, anyway? <!--more-->
 
 ## What Exactly Is an ND Filter, Anyway?
 
@@ -40,7 +40,7 @@ light that hits them, and when the light comes out the other side the colors
 should be completely unaffected. Okay, so that's great, but why do we care?
 
 As you may recall from reading
-[Mastering the Only Five Camera Settings]({% post_url 2008-06-30-mastering-the-only-five-camera-settings %}),
+[Mastering the Only Five Camera Settings]({{% ref "2008-06-30-mastering-the-only-five-camera-settings" %}}),
 there is only so much you can do to change the characteristics of the scene
 you're capturing.
 

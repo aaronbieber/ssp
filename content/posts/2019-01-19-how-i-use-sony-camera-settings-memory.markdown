@@ -12,7 +12,7 @@ works and how I use it.
 
 If you shoot with a Sony Alpha camera (a6000, a6500, a7II, a7III, a9), you
 probably have this feature. If you aren't using it, allow me to tell you why you
-*should!* ~~MORE~~
+*should!* <!--more-->
 
 ## What Is Settings Recall?
 

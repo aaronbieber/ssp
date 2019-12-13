@@ -26,7 +26,7 @@ our wits, we set out to capture the majesty of the southern wilderness.
 This is officially my first post _from the field_, though I've tried
 before and failed. My impression so far? Positive!
 
-Photos after the break! ~~MORE~~
+Photos after the break! <!--more-->
 
 ## Tips for Visiting
 

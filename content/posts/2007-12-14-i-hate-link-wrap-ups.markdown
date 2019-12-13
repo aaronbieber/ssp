@@ -30,7 +30,7 @@ often run across things that I think you guys and gals would be
 interested in. It would be a shame for that to go to waste.
 
 So today I bring you my very first ever *I Hate Link Wrap-Ups*
-post.~~MORE~~
+post.<!--more-->
 
 ## Don't Get Scammed
 

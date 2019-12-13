@@ -27,7 +27,7 @@ all.
 
 I apologize for not posting as much as usual, but the preparations for
 this voyage have monopolized my attention. To make it up to you, here
-are some photography travel tips that might be helpful.~~MORE~~
+are some photography travel tips that might be helpful.<!--more-->
 
 ## Make a List
 

@@ -26,7 +26,7 @@ you're going to get, but I had to do something, and do something I did.
 
 Read on to learn about my voyage through the world of "quick release plates" and
 "L brackets" and why **you should absolutely be using an "L" bracket on your
-camera**. ~~MORE~~
+camera**. <!--more-->
 
 ## Big Huge Hands Problems
 

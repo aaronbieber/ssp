@@ -28,7 +28,7 @@ photography is art and, if so, when it _becomes_ art. Although the very
 discussion is futile and has no practical outcome, I do think it's important to
 take a step back from what you're doing and think about what it is you're
 gaining from it. This is going to be a heady philosophical post so if that's not
-your particular brand of vodka, [read some photo news][news] instead.~~MORE~~
+your particular brand of vodka, [read some photo news][news] instead.<!--more-->
 
 [news]: http://www.google.com/reader/shared/user/15563285598058491045/label/photography
 

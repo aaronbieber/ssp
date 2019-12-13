@@ -17,7 +17,7 @@ your merry way and come back later after I've cooled down.
 This is not a new thing, but Photokina just happened, which invariably sets off
 an avalanche of reviews and teardowns and intense analysis, and I'm not saying
 that that sort of work is completely without value, but, really, for the sake of
-the rest of us, just quit it. ~~MORE~~
+the rest of us, just quit it. <!--more-->
 
 As enthusiasts, or even as professionals, I know it's fun to follow along with
 what the manufacturers are doing and get into spirited and good-natured debates

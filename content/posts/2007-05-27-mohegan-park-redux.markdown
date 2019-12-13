@@ -16,7 +16,7 @@ I went back to Mohegan Park after being told that there was an
 "abandoned zoo" on the premises. I didn't recall seeing what might pass
 as a zoo, but I had to go check it out anyway. As a bonus, it was a
 beautifully warm day and there can be no excuse for not going outside
-and enjoying it. ~~MORE~~
+and enjoying it. <!--more-->
 
 {{< img "drop center" "/ssp/23May07-01.jpg" >}}
 {{< img "drop center" "/ssp/23May07-02.jpg" >}}

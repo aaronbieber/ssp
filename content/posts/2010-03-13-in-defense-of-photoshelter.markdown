@@ -27,7 +27,7 @@ list.
 ![](/wp-content/uploads/2010/03/photoshelter.gif "Photoshelter")
 
 This is a story about my experiences with Photoshelter and why you should
-probably stop reading right now and sign up. ~~MORE~~
+probably stop reading right now and sign up. <!--more-->
 
 ## A Brief Preface
 

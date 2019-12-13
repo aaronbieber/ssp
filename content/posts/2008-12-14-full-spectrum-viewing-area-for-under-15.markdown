@@ -41,7 +41,7 @@ call it, my bedroom---and I never once thought to write about it.
 [vs]: http://theonlinephotographer.typepad.com/the_online_photographer/2008/12/the-viewing-sta.html
 
 After the jump I'll tell you how to *dramatically increase your viewing
-conditions for about $15*. ~~MORE~~
+conditions for about $15*. <!--more-->
 
 Michael says he uses one of those clip-on Verilux full-spectrum fluorescent
 setups. When I started down this path, I hadn't heard of Verilux specifically,

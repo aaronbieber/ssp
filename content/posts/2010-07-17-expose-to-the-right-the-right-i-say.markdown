@@ -63,7 +63,7 @@ it." Awesome, I agree. But neither of us are saying you should "blow
 out" any of your image; definitely don't do that.
 
 Strangely, most of the people who commented on Will's article disagreed
-with him. _Those people are amateurs_. ~~MORE~~
+with him. _Those people are amateurs_. <!--more-->
 
 Why would I say that? I don't even know them, and I am not prone to
 hyperbole or dirt-kicking. I'm really not. I'm also sure that all of

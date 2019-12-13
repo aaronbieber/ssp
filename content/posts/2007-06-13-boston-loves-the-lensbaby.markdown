@@ -18,7 +18,7 @@ tags:
 It's been a while since I've posted, well, you know, _photographs_
 here on my photo blog, but I think you'll agree it was worth the wait. I
 spent a day in rainy Boston last weekend with my Lensbaby 3G,
-introducing it to the charm of beantown. ~~MORE~~
+introducing it to the charm of beantown. <!--more-->
 
 This was the first time I took the Lensbaby out in the city and I am
 very pleased with the results. It's extremely challenging to focus by

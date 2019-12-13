@@ -43,7 +43,7 @@ patience.
 
 After the break, the resident product photographer and editor at
 Handmadeology shares a \$12 product studio setup that yielded the image
-on the right.~~MORE~~
+on the right.<!--more-->
 
 ![](/wp-content/uploads/2011/01/Screen-shot-2011-01-31-at-4.15.39-PM.png "Etsy")
 

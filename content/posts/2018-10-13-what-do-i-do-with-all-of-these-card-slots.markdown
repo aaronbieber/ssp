@@ -20,7 +20,7 @@ also not a working photographer so I didn't realize that two slots was an
 *expectation* at this point in time.
 
 Okay, so, I'm new at this, what should I do with two memory card slots? I'll
-tell ya! ~~MORE~~
+tell ya! <!--more-->
 
 ## What are my options?
 

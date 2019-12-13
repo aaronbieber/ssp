@@ -50,7 +50,7 @@ all of my batteries away.
 
 Here I will make a valiant effort to summarize what has already been
 said by others and tell you why I think this "emergency" might be
-somewhat blown out of proportion. Continue after the jump! ~~MORE~~
+somewhat blown out of proportion. Continue after the jump! <!--more-->
 
 ## The Facts
 

@@ -81,7 +81,7 @@ In his article, Paul wonders about the true intentions of people who
 demonstrate fundamental misunderstanding of the "art concepts of
 photography":/tag/desgn and blame it on insufficient equipment or
 software. If these people want to learn, shouldn't they be more open to
-feedback? ~~MORE~~
+feedback? <!--more-->
 
 Ed Zawadzki takes it a step further and asks whether the [art of
 critique](http://www.f1point0.com/2007/11/02/the-art-of-the-critique) has

@@ -19,7 +19,7 @@ tags:
 Quite a few people out there seem to think that professional photography
 is a life of glamour, excitement, and international travel. If you make
 a living photographing, I don't need to tell you how false that
-perception is. ~~MORE~~
+perception is. <!--more-->
 
 This is how non-photographers (and perhaps even some casual hobbyist
 photographers) think pros spend their time:

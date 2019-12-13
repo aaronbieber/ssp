@@ -15,7 +15,7 @@ I want to talk a bit about how I chose Etsy as the storefront for my work, but
 before I do that [go check out my
 shop!][shop]
 
-I'll wait...~~MORE~~
+I'll wait...<!--more-->
 
 Selling photographic prints online is an interesting area of the market. I would
 never claim to be an expert on this, but I'll tell you what I know.

@@ -36,7 +36,7 @@ Because there are so many nuances to the ways in which creators may wish for
 their work to be used by others, the Creative Commons emerged, creating whole
 new gradations within the copyright system. Now, rather than saying "all rights
 reserved," we can easily say "some rights reserved" and call upon a pile of
-pre-written legalese. Good idea?~~MORE~~
+pre-written legalese. Good idea?<!--more-->
 
 ## Understanding Copyright
 
@@ -126,7 +126,7 @@ that "sharing is caring," and I stand behind that. I am not anti-capitalist, nor
 would I deny anyone the fruits of their labor, but sometimes a little bit of
 giving goes a long way.
 
-[wrp]: {% post_url 2007-06-20-web-rules-for-photographers %}
+[wrp]: {{% ref "2007-06-20-web-rules-for-photographers" %}}
 
 Let me break this down from a photographer's perspective. I had the opportunity
 a couple of years ago to photograph the abandoned and decrepit Mansfield

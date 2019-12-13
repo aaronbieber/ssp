@@ -31,7 +31,7 @@ mere sound bite.
 [ccp]: http://www.danheller.com/blog/posts/creative-commons-and-photography.html
 
 After the jump, more of Dan's rantings followed by more of my rantings,
-hopefully to end with a meaningful conclusion... But no promises. ~~MORE~~
+hopefully to end with a meaningful conclusion... But no promises. <!--more-->
 
 Dan Heller is a _prolific_ stock and travel photographer and a somewhat prolific
 writer as well. His experiences with the Creative Commons began in the software
@@ -79,7 +79,7 @@ for a few glaring holes:
   financial or professional liability, even in the cases where your watermark or
   copyright information are wrongfully removed.
 
-[pdr]: {% post_url 2007-04-11-protecting-your-digital-rights %}
+[pdr]: {{% ref "2007-04-11-protecting-your-digital-rights" %}}
 
 * Dan seems to imply that by avoiding any Creative Commons licensed image, the
   business in question has now become a less likely consumer of photographers'

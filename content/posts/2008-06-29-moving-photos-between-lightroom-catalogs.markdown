@@ -36,7 +36,7 @@ flight home organizing and even editing images, but all of that work
 would be for naught if there wasn't a nice, easy way to move those
 images and their corresponding metadata onto your primary computer.
 
-Fortunately, there is! I will tell you how! ~~MORE~~
+Fortunately, there is! I will tell you how! <!--more-->
 
 Prerequisites (and helpful tips):
 

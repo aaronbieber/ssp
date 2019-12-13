@@ -37,7 +37,7 @@ critiquing ability*. By learning the basic terminology of art you will
 be able to take full advantage of critique from your peers as well as
 articulate your own.
 
-So let's get started! Today I'll be discussing _texture_.~~MORE~~
+So let's get started! Today I'll be discussing _texture_.<!--more-->
 
 So what exactly is texture?
 

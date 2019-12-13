@@ -39,7 +39,7 @@ Sometimes, though, inspiration doesn't come. That's when a few little
 tricks can come in handy to help you see the world differently, or to
 add interest to otherwise mundane surroundings. These are just ideas;
 they won't always work, and there's no guarantee you'll even like them,
-but here they are anyway, for your approval.~~MORE~~
+but here they are anyway, for your approval.<!--more-->
 
 {% random right %}
 

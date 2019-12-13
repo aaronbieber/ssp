@@ -16,13 +16,13 @@ I don't mean only shoot with long lenses, that's ridiculous, but you should
 constantly *make yourself uncomfortable* in search of creative
 breakthroughs. Here I'll share why I think this is critically important, and
 give you a few quick things you can do **today** to reach the next level in your
-work.~~MORE~~
+work.<!--more-->
 
 [I wrote about this a while back][creativity] (okay it was 11 years ago; time
 flies when you're having fun) and to be completely honest I'm going to say a lot
 of the same things again, but they're all still true.
 
-[creativity]: {% post_url 2007-05-23-boosting-creativity-enhancing-composition %}
+[creativity]: {{% ref "2007-05-23-boosting-creativity-enhancing-composition" %}}
 
 > The enemy of art is the absence of limitations.
 >

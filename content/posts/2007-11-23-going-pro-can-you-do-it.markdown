@@ -23,7 +23,7 @@ answering is a working pro, and if they are, what industry they work in.
 
 Despite plentiful arguments to the contrary, I do believe that
 photography can be a viable full-time job. Making it work for you
-requires flexibility and understanding of the marketplace.~~MORE~~
+requires flexibility and understanding of the marketplace.<!--more-->
 
 Paul Indigo over at [Beyond the
 Obvious](http://paulindigo.blogspot.com/2007/11/is-professional-photography-still).html

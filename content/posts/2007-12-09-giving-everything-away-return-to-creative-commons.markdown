@@ -38,7 +38,7 @@ I'm revisiting the topic here today, not simply to agree or disagree with
 anything Goldstein, Auer, or Doctorow said, but rather to paint a picture of why
 I think the Creative Commons plays a very valuable role in photography in
 today's copy-and-paste culture and why you should be thinking very seriously
-about how it can help you. ~~MORE~~
+about how it can help you. <!--more-->
 
 ## Creative Commons?
 

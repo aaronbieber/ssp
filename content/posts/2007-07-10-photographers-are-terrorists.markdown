@@ -32,7 +32,7 @@ other forums and at great length. My focus will be on United States laws: what
 you are legally permitted to photograph; what, if any, argument you should be
 willing to put up with from certain officials; and some of my own experiences.
 
-Please come in, photography is allowed.~~MORE~~
+Please come in, photography is allowed.<!--more-->
 
 ## What Are Your Rights?
 

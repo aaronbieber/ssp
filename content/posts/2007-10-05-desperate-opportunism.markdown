@@ -22,7 +22,7 @@ not to over-think and over-plan the trip in the hopes of maximizing photographic
 potential. I believe that is a mistake.
 
 It's essential to plan for certain things, but the rest... Well, I leave it to
-chance. I'll tell you why.~~MORE~~
+chance. I'll tell you why.<!--more-->
 
 While photographing in Yosemite National Park (a totally gorgeous place), I
 became acquainted with a man whom I will refer to only as "Bear Bell." I'm not

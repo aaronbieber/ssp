@@ -39,7 +39,7 @@ So recognize that it is with a full understanding that I say to you,
 right now, _we stand at the crossroads of creativity_. We've stood
 here before, we will stand here again, but I can say categorically that
 we stand here now and it is an important and exciting time to be a
-photographer. ~~MORE~~
+photographer. <!--more-->
 
 To our left lies the path toward a technological utopia, a world where
 anything can be achieved in post-processing, where your creative vision

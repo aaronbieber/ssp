@@ -30,7 +30,7 @@ is reflected in the shallow pool surrounding the (currently closed) Wave Swing.
 
 {{< img "drop center" "/ssp/20Jun08-01.jpg" >}}
 
-More after the jump! ~~MORE~~
+More after the jump! <!--more-->
 
 This bench near the Wave Swing is surrounded by roses. Pretty, no?
 

@@ -42,7 +42,7 @@ line, though, so I feel like I've done the headline proud.
 [lkt]: http://www.lightroomkillertips.com/2010/to-dng-or-not-to-dng/
 
 After the break, a complete rundown on DNG; trust me, it's going to be technical
-_and_ editorial. ~~MORE~~
+_and_ editorial. <!--more-->
 
 ## What Is DNG?
 

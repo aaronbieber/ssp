@@ -29,7 +29,7 @@ enhancements.
 First, if you have Lightroom and it hasn't already popped up and told
 you to [download the
 upgrade](http://www.adobe.com/products/photoshoplightroom), you should
-seriously click over there and do that.~~MORE~~
+seriously click over there and do that.<!--more-->
 
 When I went out to [Yosemite National
 Park](http://www.fisheyegallery.com/Places/Yosemite) and [Santa

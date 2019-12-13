@@ -26,7 +26,7 @@ tags:
 This article is part of a series. If you want, go back and
 read [Art Concepts in Photography, Part I: Texture][part1].
 
-[part1]: {% post_url 2007-08-02-art-concepts-in-photography-part-1-texture %}
+[part1]: {{% ref "2007-08-02-art-concepts-in-photography-part-1-texture" %}}
 
 I come from more of a fine art background; my parents both work in the arts and
 photography for me is an extension of my involvement in art as a whole. By
@@ -41,7 +41,7 @@ big step back and talk about _composition_.
 When we say "composition," we refer not only to the relative locations of the
 points of interest in a piece (which is the most discussed aspect), but also to
 their sizes, shapes, colors, and other variables that contribute to the balance
-(or imbalance) of the work. That's what we're going to look at today.~~MORE~~
+(or imbalance) of the work. That's what we're going to look at today.<!--more-->
 
 ## The Rule of Thirds
 

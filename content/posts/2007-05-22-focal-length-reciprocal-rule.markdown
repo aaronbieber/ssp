@@ -174,7 +174,7 @@ places and there's no use bringing home a whole CF card filled with blurry
 photographs.
 
 Not only will I explain what this reciprocal rule is, but I'll give you real
-examples of how to use it in the field.~~MORE~~
+examples of how to use it in the field.<!--more-->
 
 ## The Reciprocal Rule
 

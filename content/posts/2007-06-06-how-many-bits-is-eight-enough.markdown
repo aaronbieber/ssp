@@ -110,7 +110,7 @@ uncover some truths about bit depth; explain what it means, demonstrate
 what it can do for you, and answer the question that gets so many
 photographers hot under the collar: _8-bit or 16-bit?_
 
-It's never as simple as it sounds.~~MORE~~
+It's never as simple as it sounds.<!--more-->
 
 ## What Is Bit Depth?
 

@@ -29,7 +29,7 @@ completely correct answer, it would already be known.
 
 Today I will dive into the briar patch and outline the pros and cons of both
 sides of the debate so that you can make a more fully informed decision about
-what equipment to buy.~~MORE~~
+what equipment to buy.<!--more-->
 
 ## What Is It?
 
@@ -44,7 +44,7 @@ can come out blurry due to this movement ((Robots take very clear
 photographs)). In order to help curtail the effects of "camera shake," image
 stabilization technology was developed.
 
-[flr]: {% post_url 2007-05-22-focal-length-reciprocal-rule %}
+[flr]: {{% ref "2007-05-22-focal-length-reciprocal-rule" %}}
 
 Canon and Nikon both use image stabilization systems that reside within the lens
 housing of particular lenses. In the Canon line, those lenses are marked "IS"

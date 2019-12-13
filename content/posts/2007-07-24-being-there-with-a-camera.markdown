@@ -23,7 +23,7 @@ Opinions differ, but you can't lose by having the camera around even if you
 don't think you'll use it. I happened to be driving around Narragansett Bay
 (actually, across it) in Rhode Island this weekend and, because I was there
 specifically to take some family portraits, I thankfully had my camera with me
-and was able to capture this scene. ~~MORE~~
+and was able to capture this scene. <!--more-->
 
 {{< img "drop center" "/ssp/22Jul07-01.jpg" >}}
 

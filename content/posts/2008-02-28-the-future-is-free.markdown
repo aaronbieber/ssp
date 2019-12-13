@@ -27,7 +27,7 @@ I haven't read the book so I don't claim to know what Anderson's
 conclusions might be, though I have spent a lot of time ruminating on
 this whole _free content movement_ that is slowly developing and I
 think it deserves some discussion. More of my ramblings after the
-jump. ~~MORE~~
+jump. <!--more-->
 
 Anderson mentions something he calls _zero marginal cost_, which
 refers to the fact that the cost of distributing digital assets nowadays

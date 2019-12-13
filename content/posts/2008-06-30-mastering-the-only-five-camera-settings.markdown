@@ -82,7 +82,7 @@ The *only* five settings that you need to know are:
 * ISO sensitivity
 * Exposure value (EV)
 
-After the jump I will explain in detail. ~~MORE~~
+After the jump I will explain in detail. <!--more-->
 
 Each of these settings affects the others. It's like a five-way see-saw
 where changing one setting will require that you change another to

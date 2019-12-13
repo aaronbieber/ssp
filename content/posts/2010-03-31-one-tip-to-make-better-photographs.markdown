@@ -101,7 +101,7 @@ truthfully, it could be...
 
 There is only one piece of advice I can give you that will help you to
 simultaneously improve your photographs and to save money on all of that
-equipment you keep drooling over in the B&H catalog...~~MORE~~
+equipment you keep drooling over in the B&H catalog...<!--more-->
 
 Stop buying equipment.
 

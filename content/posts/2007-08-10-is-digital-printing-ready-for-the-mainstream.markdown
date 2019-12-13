@@ -38,7 +38,7 @@ In the interest of full disclosure, I should probably mention that the comment
 was posted by my father, who, having a degree in fine art and a gallery of his
 own, takes a vested interest in some of the topics I discuss. That said, I
 thought it was a very relevant question and one that many of you might have
-thought about, too, so here's what I think. ~~MORE~~
+thought about, too, so here's what I think. <!--more-->
 
 First, it would depend on how knowledgeable the viewer was and how close they
 could get to their subject. Second, there are many technologies available, so

@@ -41,7 +41,7 @@ that word. That's right, it's a photographic process; that's probably
 close enough for most tabletop trivia games.
 
 Unfortunately, this blog is not interested in tidbits of trivia, so get
-ready for facts. Lots of facts. With historical _context_. ~~MORE~~
+ready for facts. Lots of facts. With historical _context_. <!--more-->
 
 Returning to the topic at hand, Daguerre's eponymous method was the
 first silver-based imaging process and one of the first techniques for

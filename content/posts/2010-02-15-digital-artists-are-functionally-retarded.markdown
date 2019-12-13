@@ -33,7 +33,7 @@ tools is an invitation, to some, to spend the rest of their lives
 tweaking and re-developing a single image, printing it on every possible
 paper, using every possible ink combination, surface treatment, and
 mounting option. This is not what I would call art, it is
-_completionism_, pure and simple.~~MORE~~
+_completionism_, pure and simple.<!--more-->
 
 **com • ple • tion • ist** _n._
 

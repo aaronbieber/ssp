@@ -54,7 +54,7 @@ more usable, accessible, and effective. Photographers are a technically
 savvy crowd, especially since digital has gotten so popular, but they
 don't always think about things the way web developers do. Here are some
 simple guidelines you can follow when promoting your work on the
-web.~~MORE~~
+web.<!--more-->
 
 For the most part, web standards are a great idea and those who follow
 them are probably benefiting their users. At the same time, some

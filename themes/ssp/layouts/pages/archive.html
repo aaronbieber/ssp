@@ -10,12 +10,17 @@
 
       {{ range ((where .Site.RegularPages "Type" "in" "posts").GroupByDate "2006") }}
 
+      {{ $thisYear := now | dateFormat "2006" }}
+      {{ if eq ((index .Pages 0).Date | dateFormat "2006") $thisYear }}
+      <h3>This year’s posts</h3>
+      {{ else }}
       <h3>{{ .Key }}</h3>
+      {{ end }}
 
       <ul class="past">
         {{ range .Pages }}
         <li>
-          <time>{{ .Date | dateFormat "2 Jan" }}</time>
+          <time>{{ .Date | dateFormat "02 Jan" }}</time>
           <a href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
         {{ end }}

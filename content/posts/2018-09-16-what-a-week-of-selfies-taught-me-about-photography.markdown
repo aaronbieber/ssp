@@ -22,7 +22,7 @@ new one* on most of my accounts, but I learned a **critical photography skill**
 that everyone, new or old to the craft, should live by.
 
 I think anyone who does creative work can benefit from this advice, so I'm
-writing it down here on the internet.~~MORE~~
+writing it down here on the internet.<!--more-->
 
 But I learned a lot more, too.
 

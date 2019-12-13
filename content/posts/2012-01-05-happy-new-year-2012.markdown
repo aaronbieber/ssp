@@ -32,7 +32,7 @@ making, in fact.
 Michael Chrisman, a 31-year-old photographer living in Toronto, set up a
 small pinhole camera on January 1, 2010, overlooking the city's skyline.
 On new year's eve, he collected it. The developed picture is shown to
-the right, and I have to say, I love it. ~~MORE~~
+the right, and I have to say, I love it. <!--more-->
 
 In the image you can clearly see the trails of the sun across the sky,
 each one tracing a slightly different path as the Earth tilts on its

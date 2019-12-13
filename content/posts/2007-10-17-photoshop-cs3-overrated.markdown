@@ -44,7 +44,7 @@ and healing, and so on.
 
 I am a _very particular_ Photoshop user with specific needs and
 expectations established by years of use. Photoshop CS3 is a piece of
-crap. ~~MORE~~
+crap. <!--more-->
 
 I moved to Creative Suite 1 a good while after its release and it really
 fit the bill for me. Its adjustment layers and effects layers were

@@ -19,7 +19,7 @@ switch to mirrorless.
 
 I'll also try to convince you to switch to mirrorless, too.
 
-So if any of that sounds interesting, here we go.~~MORE~~
+So if any of that sounds interesting, here we go.<!--more-->
 
 First of all, in case you missed the memo, mirrorless is the future. You may
 disagree with it, but in about five years from now we'll all be shooting

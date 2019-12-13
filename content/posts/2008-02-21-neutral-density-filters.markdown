@@ -42,7 +42,7 @@ while others simply write 0.3, and yet others come out and plainly state
 "one stop."
 
 I personally prefer that everything be expressed in stops, but since
-that isn't often the case, here's my explanation... After the jump.~~MORE~~
+that isn't often the case, here's my explanation... After the jump.<!--more-->
 
 ## Neutral What?
 

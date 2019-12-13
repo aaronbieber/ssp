@@ -31,7 +31,7 @@ core, a still camera. I mean, that's what it was designed to do. The
 ability to record video is a cute add-on, and although it works very
 well for small-scale filmmakers in oversized scarves and skinny jeans,
 it falls short on many features a crew would need to film a real movie
-(regardless of wardrobe). ~~MORE~~
+(regardless of wardrobe). <!--more-->
 
 At the same time, high-end optics mogul Jim Jannard, founder of the
 well-known Oakley eyewear company, has been building a new empire around

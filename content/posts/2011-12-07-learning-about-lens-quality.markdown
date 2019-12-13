@@ -29,7 +29,7 @@ on the usefulness of HDR as a medium for artistic expression... Drumroll
 please... _Graphs_.
 
 To be more specific, graphs of _modulation transfer functions._
-Dry-sounding? Absolutely! Exciting? I sure hope so! ~~MORE~~
+Dry-sounding? Absolutely! Exciting? I sure hope so! <!--more-->
 
 As the title suggests, today's episode is concerned with lens quality.
 To be more precise, metrics that measure lens quality. To be yet more

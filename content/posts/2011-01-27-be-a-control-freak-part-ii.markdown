@@ -32,7 +32,7 @@ have sought to close the gap between the pro and the semi-pro by providing all
 of these different shooting modes, and even though I still believe you only need
 three, it's not unusual to see mode dials with 11 or 12 settings on them! _You
 don't need all those settings to get full control!_ Haje Jan Kamps helps me
-explain after the break.~~MORE~~
+explain after the break.<!--more-->
 
 I've written about this before
 in [Be a Control Freak (Shooting Modes Explained)][bacf], but the subject came
@@ -52,7 +52,7 @@ Definitely hop over to pixiq and [read Haje's article][mode], check
 out [my previous article][bacf] if you haven't read it before, and if you are
 hankering for even more information...
 
-[bacf]: {% post_url 2007-05-29-be-a-control-freak-shooting-modes-explained %}
+[bacf]: {{% ref "2007-05-29-be-a-control-freak-shooting-modes-explained" %}}
 [mode]: http://www.pixiq.com/article/mode-wheel
 
 ## Learn Tips and Tricks for Real-Life Shooting

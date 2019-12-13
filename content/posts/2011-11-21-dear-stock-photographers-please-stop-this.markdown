@@ -36,7 +36,7 @@ a _coke addict_ jealous. The look on your face is one of such
 unbridled joy, such boundless euphoria, it would be hard for any
 bystander not to want your life at that moment.
 
-Dear stock photographers... Quit it! ~~MORE~~
+Dear stock photographers... Quit it! <!--more-->
 
 I'm not going to try to say that pictures of women ecstatically eating
 salad, men jumping up in the air in business suits, or families in

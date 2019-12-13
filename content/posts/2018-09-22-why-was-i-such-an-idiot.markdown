@@ -16,7 +16,7 @@ could "rescue" some of the shots that I had passed over way back then.
 It was while looking through the shots I had actually published on my gallery
 already that I realized: **I was a complete idiot.**
 
-And that's a good thing.~~MORE~~
+And that's a good thing.<!--more-->
 
 OK, how is this *possibly* a good thing? To understand why I was delighted
 rather than ashamed to have this realization, I need to tell you a bit more
