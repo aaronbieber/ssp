@@ -51,7 +51,7 @@ a sculptor works within the limits of his or her materials, but the resulting
 form is summoned completely from their imagination, from their vision of the
 materials being configured in a certain way.
 
-{% random left %}
+{{< random "left" >}}
 
 Because of this "limitation" ((Limiting only to the extent that a painter might
 be limited with _paint_.)) of photography, many people are drawn to it--as an
@@ -81,7 +81,7 @@ it. My work is not abstract, as it does communicate the presence of objects and
 places that are recognizable, but I find my interest piqued most by the
 geometry, contrast, and texture of my subjects.
 
-{% random right %}
+{{< random "right" >}}
 
 Part of my development as a photographer has involved moving slowly away from
 the urge to create images with some clear meaning simply for the emotional

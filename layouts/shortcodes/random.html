@@ -1,0 +1,3 @@
+{{ $files := readDir "static/ssp/" }}
+{{ $randomImage := (index ($files | shuffle) 0).Name }}
+<img class="drop random-{{ .Get 0 }}" src="/ssp/{{ $randomImage }}" />

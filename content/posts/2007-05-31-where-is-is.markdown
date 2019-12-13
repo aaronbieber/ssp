@@ -16,7 +16,7 @@ tags:
 - equipment
 comments: []
 ---
-{% random right %}
+{{< random "right" >}}
 
 The debate rages on concerning the best place to put "image stabilization"
 features. Is it within the lens housing, as Canon prefers; or is it within the
@@ -33,7 +33,7 @@ what equipment to buy.<!--more-->
 
 ## What Is It?
 
-{% random left %}
+{{< random "left" >}}
 
 First, let me explain briefly what "image stabilization" technology actually
 is. When you hold your camera in your hands, it moves around a little bit
@@ -59,7 +59,7 @@ on [Nikon's VR page][nvr].
 
 [nvr]: http://www.nikon.co.jp/main/eng/portfolio/about/technology/nikon_technology/vr_e/index.htm
 
-{% random right %}
+{{< random "right" >}}
 
 The net effect is that the image seen through the lens moves considerably less,
 and when it does move it moves with an odd but strangely satisfying fluidity
@@ -71,7 +71,7 @@ Numerous articles exist that test those claims, but I won't get into that here.
 
 ## Why Argue About This?
 
-{% random left %}
+{{< random "left" >}}
 
 While Canon and Nikon have opted to place the image stabilization components in
 some of their (often higher-end) lenses, other makers such as Pentax, Panasonic,
@@ -119,7 +119,7 @@ other hand, there are downsides to in-camera IS, too:
 * The effects are not visible through the viewfinder. Because only the sensor
   moves, you can't tell how well it's working until you snap a picture.
 
-{% random right %}
+{{< random "right" >}}
 
 An argument that I have often tried to make when this subject comes up is that
 in-camera IS puts you in greater jeopardy if it fails. While most serious
@@ -151,7 +151,7 @@ Whitepaper,
 If you're swinging an 18-inch-long 600mm lens around, in-camera IS just isn't
 going to cut it.
 
-{% random left %}
+{{< random "left" >}}
 
 Another viewpoint is that more IS cannot possibly be bad, so we should encourage
 manufacturers to place IS systems in their cameras *and* their lenses. I read

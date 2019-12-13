@@ -17,7 +17,7 @@ tags:
 - rights
 ---
 
-{% random right %}
+{{< random "right" >}}
 
 I hope you read the subject of this article and gasped. I hope that your first
 reaction was indignance or perhaps anger. I share your feelings, but we
@@ -36,7 +36,7 @@ Please come in, photography is allowed.<!--more-->
 
 ## What Are Your Rights?
 
-{% random left %}
+{{< random "left" >}}
 
 The first thing I'm going to do is point you in the direction of Andrew Kantor's
 wonderful [Legal Rights of Photographers][lrp] guide (pdf, linked with
