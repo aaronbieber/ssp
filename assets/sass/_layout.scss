@@ -3,14 +3,14 @@
  */
 .site-header {
     // border-top: 5px solid $brand-color;
-    border-bottom: 2px solid lighten($brand-color, 20);
+    border-bottom: 3px solid lighten($brand-color, 20);
+    background-color: #f3f3f3;
 
     // Positioning context for the mobile navigation icon
     position: relative;
     height: 140px;
     display: block;
     overflow: hidden;
-    background-image: url('/images/hero_mountains.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
@@ -33,7 +33,16 @@
 }
 
 header.home {
-    height: 500px;
+    height: 260px;
+
+    .site-title {
+      font-size: 58px;
+    }
+
+    img.header-logo {
+      width: 200px;
+      margin-right: -20px;
+    }
 }
 
 .site-title {
@@ -41,17 +50,21 @@ header.home {
     font-weight: 900;
 
     position: absolute;
-    bottom: 50px;
+    bottom: 40px;
 
-    font-size: 58px;
+    font-size: 48px;
     font-weight: bold;
-    line-height: 56px;
     margin-right: 10px;
 
     &,
     &:visited {
-        color: white;
-        text-shadow: 0px 3px 1px black;
+        color: black;
+    }
+
+    img.header-logo {
+      width: 100px;
+      margin-right: -20px;
+      margin-bottom: -30px;
     }
 
     @include media-query(765px) {
@@ -59,7 +72,7 @@ header.home {
             font-size: 2.6em;
 
             img.header-logo {
-                height: 70px;
+                width: 100px;
             }
         }
     }
@@ -81,6 +94,7 @@ header.home {
     font-weight: bold;
     position: absolute;
     bottom: 0;
+    line-height: 35px;
     height: 40px;
     padding-bottom: 10px;
 
@@ -89,15 +103,17 @@ header.home {
     }
 
     .page-link {
+        font-size: 18px;
         float: left;
-        color: white;
+        color: black;
         height: 40px;
         padding: 5px 15px;
         text-decoration: none;
-        text-shadow: 0px 2px 1px black;
+        // text-shadow: 0px 2px 1px black;
 
         &:hover {
             background-color: lighten($brand-color, 20);
+            border-radius: 5px 5px 0 0;
         }
     }
 

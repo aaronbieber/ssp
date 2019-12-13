@@ -1,8 +1,8 @@
-<header class="site-header{{/* if page.url == '/index.html' %} home{% endif */}}">
+<header class="site-header{{ if .IsHome }} home{{ end }}">
   <div class="wrapper">
 
     <a class="site-title" href="{{ .Site.BaseURL }}/">
-      <img src="/images/singleservingphoto-logo-100.png" class="header-logo" />
+      <img src="/images/ssp-logo-400.png" class="header-logo" />
       {{ .Site.Title }}
     </a>
 
