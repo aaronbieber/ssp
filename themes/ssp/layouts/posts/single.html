@@ -7,6 +7,9 @@
   </header>
 
   <article class="post-content">
+    {{ if .Params.toc }}
+      {{ .TableOfContents }}
+    {{ end }}
     {{ .Content }}
   </article>
 </div>
