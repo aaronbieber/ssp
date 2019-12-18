@@ -69,29 +69,30 @@ article.post-content {
     }
 
     nav#TableOfContents {
-      float: right;
-      border: 2px solid rgb(132, 178, 238);
-      margin: 1em 0 1em 2em;
-      padding: 0.5em 1em 1em 1em;
+        background-color: rgba(132, 178, 238, 0.1);
+        float: right;
+        border: 2px solid rgb(132, 178, 238);
+        margin: 1em 0 1em 2em;
+        padding: 0.5em 1em 1em 1em;
 
-      @include media-query($on-palm) {
-        float: none;
-        margin-left: 0;
-      }
-
-      ul {
-        margin: 0 0 0 1em;
-        li {
-          list-style-type: circle;
-          margin: 0;
-          padding: 0.5em 0 0 0;
-
-          & li {
-            list-style-type: lower-alpha;
-            margin-left: 1em;
-          }
+        @include media-query($on-palm) {
+            float: none;
+            margin-left: 0;
         }
-      }
+
+        ul {
+            margin: 0 0 0 1em;
+            li {
+                list-style-type: disc;
+                margin: 0;
+                padding: 0.5em 0 0 0;
+
+                & li {
+                    list-style-type: lower-alpha;
+                    margin-left: 1em;
+                }
+            }
+        }
     }
 }
 

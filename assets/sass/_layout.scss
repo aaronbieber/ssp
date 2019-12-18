@@ -35,25 +35,29 @@
 header.home {
     height: 260px;
 
-    .site-title {
-      font-size: 58px;
-    }
-
     img.header-logo {
-      width: 200px;
-      margin-right: -20px;
+        width: 200px;
     }
 
-    @include media-query(872px) {
-      img.header-logo {
-        width: 100px;
-        margin-right: -20px;
-        margin-bottom: -30px;
-      }
+    .site-title {
+        @include media-query(765px) {
+            & {
+                img.header-logo {
+                    width: 100px;
+                }
+            }
+        }
 
-      .site-title {
-        font-size: 40px;
-      }
+        @include media-query($on-palm) {
+            & {
+                bottom: 170px;
+                font-size: 8vw;
+
+                img.header-logo {
+                    display: none;
+                }
+            }
+        }
     }
 }
 
@@ -81,8 +85,6 @@ header.home {
 
     @include media-query(765px) {
         & {
-            font-size: 2.6em;
-
             img.header-logo {
                 width: 100px;
             }
