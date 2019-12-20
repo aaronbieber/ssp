@@ -12,5 +12,15 @@
     {{ end }}
     {{ .Content }}
   </article>
+
+
+  <section class="comments">
+    <h2>Comments</h2>
+    {{ if eq hugo.Environment "production" }}
+        {{ partial "disqus" . }}
+    {{ else }}
+        <p>Comments not displayed in development.</p>
+    {{ end }}
+  </section>
 </div>
 {{ end }}

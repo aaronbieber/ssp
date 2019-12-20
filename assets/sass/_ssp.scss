@@ -235,7 +235,7 @@ article.post-content,
     figure.modest {
         float: none;
         display: block;
-        width: 75%;
+        width: 70%;
         margin: 2em auto;
 
         @include media-query($on-palm) {
