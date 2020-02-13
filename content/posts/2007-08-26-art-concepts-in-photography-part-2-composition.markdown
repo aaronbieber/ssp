@@ -4,10 +4,7 @@ published: true
 title: 'Art Concepts in Photography, Part 2: Composition'
 author_email: aaron@singleservingphoto.com
 author_url: http://gallery.aaronbieber.com
-wordpress_id: 137
-wordpress_url: /articles/2007/08/26/art-concepts-in-photography-part-2-composition/
 date: '2007-08-26 17:31:25 -0400'
-date_gmt: '2007-08-26 21:31:25 -0400'
 categories:
 - Articles
 tags:
@@ -23,15 +20,10 @@ tags:
 - scale
 ---
 
-This article is part of a series. If you want, go back and
-read [Art Concepts in Photography, Part I: Texture][part1].
+This article is part of a series; you may want to start at the beginning: [Part
+1: Texture][texture], or continue to [Part 3: Positive/Negative Space][posneg].
 
-[part1]: {{% ref "2007-08-02-art-concepts-in-photography-part-1-texture" %}}
-
-I come from more of a fine art background; my parents both work in the arts and
-photography for me is an extension of my involvement in art as a whole. By
-talking about the fundamental concepts of art as they apply to photography I
-hope to help you improve your work and also understand the works of others.
+[texture]: {{% ref "2007-08-02-art-concepts-in-photography-part-1-texture" %}}
 
 Because this is only the second part in my Art Concepts series, I want to study
 the more general and fundamental stuff first. In the last episode, we looked at
@@ -55,7 +47,7 @@ effectively placed at the intersections of a grid made up of two horizontal and
 two vertical lines, each equidistant from one another and from the edges of the
 piece.
 
-![](/articles/DesignConcepts/PartII/Figure-1.jpg)
+{{< img "center" "/articles/DesignConcepts/PartII/Figure-1.jpg" "Figure 1" >}}
 
 More simply stated, the points of interest in the image ought to be roughly one
 _third_ the total height or width of the image from any of its edges. This rule
@@ -113,7 +105,7 @@ design concepts is because I want to be sure your understanding of them is as
 "pure" as possible, and simple graphics allow me to single out these
 concepts. In this first example, the image is very clearly imbalanced.
 
-![](/articles/DesignConcepts/PartII/Figure-2.gif)
+{{< img "center" "/articles/DesignConcepts/PartII/Figure-2.gif" "Figure 2" >}}
 
 Because the large, black dot is the only thing _in_ the image, you are forced to
 look at it. Your eye does not want to hang around in that empty white space
@@ -122,7 +114,7 @@ more toward one thing than another is what we mean by _weight_. Balance is
 achieved by placing elements of the same weight in roughly symmetrical areas of
 the composition. Let's balance this composition out in the simplest way:
 
-![](/articles/DesignConcepts/PartII/Figure-3.gif)
+{{< img "center" "/articles/DesignConcepts/PartII/Figure-3.gif" "Figure 3" >}}
 
 By placing an identical dot on the opposite side, we have achieved balance. Yes,
 it's rather boring overall, but your eye happily moves back and forth between
@@ -134,7 +126,7 @@ It can help to squint or tilt your head when evaluating more complex images to
 get a feeling for the dynamics at play. Let's make things more interesting by
 adding a different visual element to try to balance the first dot.
 
-![](/articles/DesignConcepts/PartII/Figure-4.gif)
+{{< img "center" "/articles/DesignConcepts/PartII/Figure-4.gif" "Figure 4" >}}
 
 Here, the dot is countered by a line. If you are already used to looking at
 compositions and evaluating balance, or if you are very relaxed, you will notice
@@ -145,7 +137,7 @@ edges of the frame, asserting its dominance in a way.
 
 To balance this composition, we'll have to add more.
 
-![](/articles/DesignConcepts/PartII/Figure-5.gif)
+{{< img "center" "/articles/DesignConcepts/PartII/Figure-5.gif" "Figure 5" >}}
 
 In this final example, you can see how much more visual weight the array of
 lines carries. Your eye is drawn back and forth naturally and balance is
@@ -177,7 +169,7 @@ element in the composition will appear to be.
 The first example is exploring contrast between visual elements and their
 surroundings.
 
-![](/articles/DesignConcepts/PartII/Figure-6.gif)
+{{< img "center" "/articles/DesignConcepts/PartII/Figure-6.gif" "Figure 6" >}}
 
 Notice how the first element is easily recognizable, though the second element
 stands out much more strongly from its surroundings. We would say that the
@@ -186,7 +178,7 @@ focal point in the composition.
 
 The second example shown below explores the effect of scale.
 
-![](/articles/DesignConcepts/PartII/Figure-7.gif)
+{{< img "center" "/articles/DesignConcepts/PartII/Figure-7.gif" "Figure 7" >}}
 
 You will notice that both elements in this example draw your eye. The first is
 quite large and occupies a significant area of the frame, which gives it
@@ -220,7 +212,7 @@ viewer to trace a certain path through a composition.
 Convergence can be executed very subtly in a photograph, but for the sake of
 illustration I will use it boldly here.
 
-![](/articles/DesignConcepts/PartII/Figure-8.gif)
+{{< img "center" "/articles/DesignConcepts/PartII/Figure-8.gif" "Figure 8" >}}
 
 Notice how your eye catches one of those lines at the left side and "rides" it
 right up to the dot on the right. It's very natural to follow lines within a
@@ -244,12 +236,9 @@ daily, either yours or others', and I would be ecstatic to hear about how you've
 applied these concepts to the creation of your own images or the critique of
 others'.
 
-If you leave a comment or shoot me an e-mail with your thoughts and reactions, I
-will put together a "wrap-up" post sharing those ideas with everyone. If you're
-looking for stuff to critique, feel free to hammer away
-at [my gallery](http://gallery.aaronbieber.com)!
+If you're looking for stuff to critique, you may as well [critique
+mine](https://gallery.aaronbieber.com).
 
-Other great sources include the amazing [PhotoSIG](http://www.photosig.com),
-obviously [Flickr](http://www.flickr.com), and all of the amazing galleries
-on [photo.net](http://photo.net/gallery/photocritique/filter.tcl?rank_by=folders.=7.)
-I frequent these sites when I'm in need of inspiration.
+Continue to [Part 3: Positive/Negative Space][posneg].
+
+[posneg]: {{< ref "2007-09-08-art-concepts-in-photography-part-3-positivenegative-space" >}}

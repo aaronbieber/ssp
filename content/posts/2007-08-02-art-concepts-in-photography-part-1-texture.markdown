@@ -17,6 +17,9 @@ tags:
 - texture
 ---
 
+There are two other parts to this series, [Part 2: Composition][composition],
+and [Part 3: Positive/Negative Space][posneg].
+
 Having spent most of my developing years surrounded by it, I have always
 taken for granted many of the fundamental guidelines of art. Perhaps due
 to the complexity of its technical aspects, formal photography courses
@@ -143,3 +146,9 @@ texture can play in your images and how to enhance it by paying
 attention to contrast and tonality. In upcoming articles I will dive yet
 deeper into design concepts, so stay tuned, and feel free to bury me in
 questions and comments!
+
+Continue to [Part 2: Composition][composition], or straight to [Part 3:
+Positive/Negative Space][posneg].
+
+[composition]: {{< ref "2007-08-26-art-concepts-in-photography-part-2-composition" >}}
+[posneg]: {{< ref "2007-09-08-art-concepts-in-photography-part-3-positivenegative-space" >}}
