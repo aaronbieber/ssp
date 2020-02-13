@@ -96,3 +96,33 @@ ago:
 [composition]: {{< ref "2007-08-26-art-concepts-in-photography-part-2-composition" >}}
 [posneg]: {{< ref "2007-09-08-art-concepts-in-photography-part-3-positivenegative-space" >}}
 
+I recommend doing your own searches for videos and articles about art and design
+fundamentals, although at some point you have to just get out there and try it!
+So, what's the best way to go about that, then?
+
+## The failure cycle
+
+It is said that failure is the greatest teacher. You cannot improve unless you
+first fail, or recognize a shortcoming that you can strengthen. The process of
+learning is, at its most basic, a series of attempts wherein you strive for each
+attempt to be closer to "successful," or, in the case of your art, "a thing you
+really like."
+
+At the beginning of this post, I said that learning photography with a
+smartphone has unique advantages. I think there are three advantages here that are
+going to help you learn *very rapidly*:
+
+1. You can see your image immediately, on a screen big enough to be useful
+2. You can *process your image* right on your phone and see the results of your
+   edits instantly
+3. You can *share the image* with anyone you want and get their feedback, again,
+   essentially instantly
+   
+These three things are *practically impossible* with a DSLR.
+
+Even the one with Lightroom/Android in it, which was a great idea that didn't
+get off the ground really
+
+You can do some with an iPad or another device but that is imperfect and still
+several steps and requires more devices and more money
+
