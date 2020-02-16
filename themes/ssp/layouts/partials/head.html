@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ if .Page.Title }}{{ .Page.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+  <title>{{ if not .IsHome }}{{ .Page.Title }} - {{ end }}{{ .Site.Title }}</title>
   {{/*<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">*/}}
   <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
 
@@ -20,6 +20,7 @@
   <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | toCSS).Permalink }}">
   <link href="https://fonts.googleapis.com/css?family=Merriweather:400,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,900" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 
   <link rel="canonical" href="{{ .Page.Permalink }}">

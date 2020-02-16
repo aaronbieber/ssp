@@ -17,7 +17,7 @@
 }
 
 .post-title {
-    font-family: 'Merriweather', serif;
+    font-family: 'Roboto', serif;
     font-weight: 400;
 }
 
@@ -69,11 +69,11 @@ article.post-content {
     }
 
     nav#TableOfContents {
-        background-color: rgba(132, 178, 238, 0.1);
         float: right;
-        border: 2px solid rgb(132, 178, 238);
+        border: 2px solid $accent-color;
         margin: 1em 0 1em 2em;
         padding: 0.5em 1em 1em 1em;
+        border-radius: 3px;
 
         @include media-query($on-palm) {
             float: none;
