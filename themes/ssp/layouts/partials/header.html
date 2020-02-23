@@ -17,9 +17,11 @@
 
 
       <div class="trigger">
+        <a class="page-link" href="/">Home</a>
       {{ range (where .Site.RegularPages "Type" "in" "pages") }}
         <a class="page-link" href="{{ .Permalink }}">{{ .Title }}</a>
       {{ end }}
+        <a class="page-link" href="https://gallery.aaronbieber.com">Gallery</a>
       </div>
 
       {{/*
