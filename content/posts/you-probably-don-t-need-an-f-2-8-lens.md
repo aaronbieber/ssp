@@ -78,6 +78,25 @@ much heavier, which is true of all f/2.8 lenses thanks to the number of lens
 elements required to make that wide-open aperture sharp and consistent. Believe
 me, the f/4 is heavy enough after you've been carrying it around all day.
 
+There are a couple of reasons you may want to pick up the f/2.8 version of a
+lens, and it's up to you to determine whether it's worth the extra cost:
+
+ * For some lenses, the f/2.8 version is sharper or has better color or
+   autofocus overall. That is not the case with the Sony models I listed, but
+   may be true for others, so do your research. Whether those differences matter
+   to you depend a lot on the style of photography you're into.
+   
+ * For some lenses, the f/2.8 version is weather-sealed and the others are
+   not. This does tend to be the case with ones like the Sony where the f/2.8 is
+   their "G Master" version (equivalent to Canon "L" or Nikon "Nikkor"). Again,
+   do your research. I've taken non-weather-sealed cameras and lenses under the
+   base of waterfalls and been fine, but it depends on the kind of work you do.
+   
+ * If you are deeply into portraiture or astrophotography, you need that huge
+   light opening or the soft bokeh. Again, I think you probably know that
+   already and wouldn't be reading this if you were sure, but I mention it for
+   maximum clarity.
+
 So that's my take; I really don't think _most people_ actually need apertures
 wider than f/4, and I would encourage anyone on the fence about it to just save
 the cash and spend it on something else that you know you'll use.
