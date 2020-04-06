@@ -1,7 +1,6 @@
 ---
 title: "Can You Learn Photography With a Smartphone?"
-date: 2020-02-12T15:55:08-05:00
-draft: true
+date: 2020-04-05T05:15:08-05:00
 ---
 
 You absolutely can.
@@ -100,7 +99,7 @@ I recommend doing your own searches for videos and articles about art and design
 fundamentals, although at some point you have to just get out there and try it!
 So, what's the best way to go about that, then?
 
-## The failure cycle
+## Fail early and often
 
 It is said that failure is the greatest teacher. You cannot improve unless you
 first fail, or recognize a shortcoming that you can strengthen. The process of
@@ -118,11 +117,22 @@ going to help you learn *very rapidly*:
 3. You can *share the image* with anyone you want and get their feedback, again,
    essentially instantly
    
-These three things are *practically impossible* with a DSLR.
+These three things are *practically impossible* with a DSLR (unless you have the
+Zeiss ZX1, which can run Lightroom directly on the camera, but let's be honest
+nobody has purchased this camera).
 
-Even the one with Lightroom/Android in it, which was a great idea that didn't
-get off the ground really
+By reducing the length of the feedback cycle, you can experiment boldly and
+quickly hone in on what it is you like or don't like, what is working and what
+is not working. For that reason alone, I believe that a smartphone is
+practically the ideal beginner photography tool.
 
-You can do some with an iPad or another device but that is imperfect and still
-several steps and requires more devices and more money
+## Conclusions
 
+I hope that I have shown that 1) stunning photography can be made with a
+smartphone, 2) making a compelling image is more about the observation and skill
+of the photographer than about the equipment, and 3) smartphones have innate
+advantages as learning tools that no DSLR can offer.
+
+In the words of Chase Jarvis, "The best camera is the one you have with you."
+
+Use it.
