@@ -32,7 +32,7 @@ already knows and defers to the reader's personal judgment.
 Nando, my man, I write this with respect for your attempt, but, _have an
 opinion_, dude.
 
-In my opinion, the majority of people don't actually need an f/2.8 (or wider)
+In my opinion, the majority of people don't actually need an f/2.8 (or faster)
 lens. The chances are pretty good that even if you have one, you shoot wide open
 with it pretty infrequently. If your particular business or artistic interest
 lives in that zone of luscious bokeh or low-light performance, you already know
