@@ -39,7 +39,7 @@ I think what bothers me about this video isn't the message that new tools
 inspire new ideas. I fully agree with that message, and have experienced it many
 times myself. I think what bothers me is the *genre* of the thing.
 
-
+{{< dots >}}
 
 Ever since people started getting famous on YouTube---and I really think YouTube
 itself *created* this phenomenon---there is an apparent appetite for what I'm
@@ -84,7 +84,7 @@ It's an altar to the success of the YouTube platform and Peter's reach as a
 creator, and an entirely too-distracting way of saying "try something
 different."
 
-## Creation Is Free
+## Limitation Advances Creativity
 
 Someone called "Jim Powers" left this comment on Peter's video:
 
