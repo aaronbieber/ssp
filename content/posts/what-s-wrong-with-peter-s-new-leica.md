@@ -39,7 +39,7 @@ I think what bothers me about this video isn't the message that new tools
 inspire new ideas. I fully agree with that message, and have experienced it many
 times myself. I think what bothers me is the *genre* of the thing.
 
-{{< dots >}}
+## You Just Starred in a Success Porn
 
 Ever since people started getting famous on YouTube---and I really think YouTube
 itself *created* this phenomenon---there is an apparent appetite for what I'm
@@ -57,11 +57,11 @@ use and talk about, your content naturally skews toward showcasing luxury.
 
 Thanks to the unstoppable speed and force of the *content treadmill* that every
 creator is fated to ride, new stories must always be told and new experiences
-must always be shared.
+must always be shared. To stop is to die.
 
 So when you, a globally famous and well-funded YouTube celebrity, feel the need
-to break free from your monotony, and the solution you choose is a camera in the
-top 7% of cameras by cost listed on B&H's website... Ta-daa, you just produced a
+to break free from your monotony, and the solution you choose is in the top 7%
+most expensive cameras listed on B&H's website... Ta-daa, you just produced a
 success porn.
 
 ## More Power to You, Peter
@@ -84,7 +84,18 @@ It's an altar to the success of the YouTube platform and Peter's reach as a
 creator, and an entirely too-distracting way of saying "try something
 different."
 
-## Limitation Advances Creativity
+It only flies because it's a personal narrative, a glimpse into Peter's own
+life and his own choices, and to those he has an inalienable right. But the
+paper-thin sheen of "wow maybe try something new sometimes!" which comes across
+as *advice* feels less genuine, less grounded, at least to me.
+
+## Creativity Is Always Free
+
+If you want to break out of a "rut" in your work, a solution is always available
+for nothing. Only take photos laying down. Only take photos at a single focal
+length that you already own. Only take photos in portrait orientation.
+
+But if you *want* to buy something, consider carefully why you want it.
 
 Someone called "Jim Powers" left this comment on Peter's video:
 
@@ -95,7 +106,8 @@ Someone called "Jim Powers" left this comment on Peter's video:
 
 That's a little smarmy for sure, but with few exceptions, equipment doesn't
 guarantee any result. All a Fuji GFX 100S guarantees is that there are 100
-million pixels in the image. The photo could still be crap.
+million pixels in the image. The photo could still be crap. You could still feel
+uninspired while using it.
 
 You can absolutely [learn photography with your smartphone][phone]. You can buy
 superb vintage glass on eBay for [less than $100][ebay]. You can even [rent a
@@ -111,10 +123,10 @@ mount and had a ton of fun with it.
 
 [lb]: https://lensbaby.com/collections/collection/products/composer-pro-ii-sweet-50-refurbished
 
-Phil Hansen [did a TED talk][ted] about suffering nerve damage in high school, which
-caused his hand to shake uncontrollably. He dropped out of art school and gave
-up art for years. Eventually, he returned, and his physical limitation pushed
-him to try things he never would have tried before.
+Phil Hansen [did a TED talk][ted] about suffering nerve damage in high school,
+which caused his hand to shake uncontrollably. He dropped out of art school and
+gave up art for years. Eventually, he returned, and his physical limitation
+pushed him to try things he never would have tried before.
 
 [ted]: https://www.ted.com/talks/phil_hansen_embrace_the_shake
 
