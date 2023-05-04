@@ -1,4 +1,5 @@
 .pcmm
+.hugo_build.lock
 resources
 public/*
 !public/.gitkeep
