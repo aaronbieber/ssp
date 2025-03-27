@@ -1,7 +1,6 @@
 ---
 title: "What Makes Art Great?"
 date: 2025-03-27T13:58:07-04:00
-draft: true
 ---
 
 It's been a while since I've posted. I guess I say this every time, but I only
